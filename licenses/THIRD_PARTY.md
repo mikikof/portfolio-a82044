@@ -18,6 +18,7 @@
 | tw-animate-css | 1.4.0 | MIT |
 | typescript | 5.9.3 | Apache-2.0 |
 | vite | 8.0.13 | MIT |
+| budoux | 0.9.2 | Apache-2.0 |
 
 The UI components are adapted from shadcn/ui: https://github.com/shadcn-ui/ui (MIT).
 
